@@ -1,17 +1,8 @@
 # Goosed Cycling
 This is a blog about Minnesota bike racing really. Probably. It's at least what I have in mind at the moment I'm writing this README.
 
-# Author Setup
-## (one-time) Add author file
-TODO
-
-## Create Post
-Make a new file in `_posts/`. You need YAML frontmatter, I'd recommend just copying/modifying from an existing post.
-You'll get the idea. 
-
-These support Markdown. It's pretty standard a lot of places, but [here's all the nitty gritty details](https://github.github.com/gfm/).
-
-You can also use [emojis](https://gist.github.com/rxaviers/7360908).
+# Author Setup and Posting
+Check out the [post on the subject](https://www.goosedcycl.ing/authoring-stuff-on-this-blog/).
 
 # Dev Setup
 ## Local
