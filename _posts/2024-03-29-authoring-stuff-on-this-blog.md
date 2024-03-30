@@ -2,6 +2,7 @@
 title: "Authoring Stuff on this Blog"
 excerpt: "A kinda meta post, about contributing to this site."
 last_modified_at: 2024-03-29
+comments: false
 ---
 
 This site is hosted on GitHub Pages, built with Jekyll, and all the source is on 
