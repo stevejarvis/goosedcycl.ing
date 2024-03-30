@@ -1,0 +1,68 @@
+---
+title: "Authoring Stuff on this Blog"
+excerpt: "A kinda meta post, about contributing to this site."
+last_modified_at: 2024-03-29
+---
+
+This site is hosted on GitHub Pages, built with Jekyll, and all the source is on 
+[GitHub here](https://github.com/stevejarvis/goosedcycl.ing). Every new addition to `main` is built and shipped 
+fresh to the live page at [goosedcycl.ing](https://www.goosedcycl.ing). 
+
+There's just a few steps to contribute here.
+
+# GitHub
+Do you know how to use GitHub? If not, let's just chat. 
+[Here's the gist from GitHub](https://docs.github.com/en/get-started/using-github/github-flow) but if you're actually contributing to this we know each other, let's figure it out.
+
+# Make Yourself a Short Bio
+Look in `_data/authors.yml`, and add a bio for yourself there, including a bio pic in `assets/`. You can include as much as you want
+really, all the following is supported:
+
+```yaml
+# /_data/authors.yml
+
+Billy Rick:
+  name        : "Billy Rick"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+```
+
+# Create a Post
+Make a new file in `_posts/`. Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.md`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers.
+After that, include the necessary front matter. Basically copy an existing one and change to suit.
+One piece of this front matter is actually your author profile:
+
+```yaml
+author: Billy Rick
+```
+
+These files support Markdown. It's pretty standard a lot of places, so you may be familiar, but 
+[here's all the nitty gritty details](https://github.github.com/gfm/). You can also use [emojis](https://gist.github.com/rxaviers/7360908).
+
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+You got the idea. If you're wondering how to do something, you can obviously ask, otherwise the [theme's docs
+are really very good](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
