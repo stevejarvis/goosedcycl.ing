@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/goosed.png"
   bio              : "The fowl with the good looks."
   location         : "Minnesota"
-  email            :
+  email            : "goosedcycling@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
