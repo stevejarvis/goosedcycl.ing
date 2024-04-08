@@ -9,12 +9,15 @@ header:
   caption: A shot by Nate Long (@nlongfx) from the 2023 Machinery Hills Crit Series. 
 ---
 
+:point_right: :exclamation: [REGISTER HERE!!](https://www.bikereg.com/joy-memorial-criterium-2024) :exclamation: :point_left:
+
 Get ready to rock [New Hope](https://maps.app.goo.gl/XzR9FELZhfphwkq87), June 9th, 2024! 
 Weekend racing is back in a big way this summer for Minnesota. The Joy Memorial Crit is 1 
 of 7 races in the Northern Lights Grand Prix series, check out [MCF.net](https://mcf.net) 
 for more. 
 
-Registration open week of April 8th! Stay tuned!
+[Registration open now](https://www.bikereg.com/joy-memorial-criterium-2024)! :tada:
+Register before April 22nd for $10 off :money_with_wings:.
 
 <object data="https://drive.google.com/file/d/1gOc5gynvyv9YwsXxRYCnD0Bghg0Zez6T/preview" width="640" height="800" type='application/pdf'>
   alt : <a href="https://drive.google.com/file/d/1gOc5gynvyv9YwsXxRYCnD0Bghg0Zez6T/preview">Drive Link</a>
