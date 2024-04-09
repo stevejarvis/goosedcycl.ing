@@ -20,7 +20,7 @@ for more.
 Register before April 22nd for $10 off :money_with_wings:.
 
 <object data="https://drive.google.com/file/d/1gOc5gynvyv9YwsXxRYCnD0Bghg0Zez6T/preview" width="640" height="800" type='application/pdf'>
-  alt : <a href="https://drive.google.com/file/d/1gOc5gynvyv9YwsXxRYCnD0Bghg0Zez6T/preview">Drive Link</a>
+  Your browser doesn't have a PDF plugin. But that's ok! <a href="https://drive.google.com/file/d/1gOc5gynvyv9YwsXxRYCnD0Bghg0Zez6T/preview">Click here to see the flyer in Google Drive</a>.
 </object>
 
 
