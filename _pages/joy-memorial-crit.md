@@ -19,12 +19,20 @@ for more.
 [Registration open now](https://www.bikereg.com/joy-memorial-criterium-2024)! :tada:
 Register before April 22nd for $10 off :money_with_wings:.
 
-<object data="https://drive.google.com/file/d/1gOc5gynvyv9YwsXxRYCnD0Bghg0Zez6T/preview" width="640" height="800" type='application/pdf'>
-  Your browser doesn't have a PDF plugin. But that's ok! <a href="https://drive.google.com/file/d/1gOc5gynvyv9YwsXxRYCnD0Bghg0Zez6T/preview">Click here to see the flyer in Google Drive</a>.
-</object>
+{% capture fly_img %}
+[![Joy Memorial Flyer](/assets/images/joy-memorial/2024_Joy_Memorial_Crit_Flyer.png)](/assets/images/joy-memorial/2024_Joy_Memorial_Crit_Flyer.png)
+{% endcapture %}
+
+{% capture fly_caption %}
+The flyer we've all been waiting for! Or [click here to see the flyer in Google Drive](https://drive.google.com/file/d/1gOc5gynvyv9YwsXxRYCnD0Bghg0Zez6T/preview).
+{% endcapture %}
+
+<figure>
+  {{ fly_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>{{ fly_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+</figure>
 
 
-We're having a full day of racing, some prizes, and a kid's race. It's gonna be a blast, bring everyone!
 
 {% capture fig_img %}
 [![Joy Memorial Logo](/assets/images/joy-memorial/Joy-logo-square.png)](/assets/images/joy-memorial/Joy-logo-square.png)
