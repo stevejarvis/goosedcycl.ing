@@ -19,6 +19,8 @@ for more.
 [Registration open now](https://www.bikereg.com/joy-memorial-criterium-2024)! :tada:
 Register before April 22nd for $10 off :money_with_wings:.
 
+## Flyer 
+
 {% capture fly_img %}
 [![Joy Memorial Flyer](/assets/images/joy-memorial/2024_Joy_Memorial_Crit_Flyer.png)](/assets/images/joy-memorial/2024_Joy_Memorial_Crit_Flyer.png)
 {% endcapture %}
@@ -32,7 +34,13 @@ The flyer we've all been waiting for! Or [click here to see the flyer in Google 
   <figcaption>{{ fly_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
 </figure>
 
+## Course Preview
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vSaoyT_pKcA" frameborder="0" allowfullscreen></iframe> 
+
+## Register 
+
+:point_right: :exclamation: [REGISTER HERE!!](https://www.bikereg.com/joy-memorial-criterium-2024) :exclamation: :point_left:
 
 {% capture fig_img %}
 [![Joy Memorial Logo](/assets/images/joy-memorial/Joy-logo-square.png)](/assets/images/joy-memorial/Joy-logo-square.png)
