@@ -16,8 +16,13 @@ Weekend racing is back in a big way this summer for Minnesota. The Joy Memorial 
 of 7 races in the Northern Lights Grand Prix series, check out [MCF.net](https://mcf.net) 
 for more. 
 
+If you aren't familiar with criterium racing, it's a time-boxed bike race (30-60 minutes) with many laps on 
+a short course (in this case, 1.1 miles). At some point the "time left" turns to "laps left", and the
+first one across the line when there are no laps left is crowned the winner :crown:.
+This is a family friendly event, all are welcome. We have fields for beginners, experienced fast folks,
+kids, and everyone in between. Don't have a race license? No worries! You can buy a 1-day license. 
+
 [Registration open now](https://www.bikereg.com/joy-memorial-criterium-2024)! :tada:
-Register before April 22nd for $10 off :money_with_wings:.
 
 ## Flyer 
 
@@ -41,17 +46,3 @@ The flyer we've all been waiting for! Or [click here to see the flyer in Google 
 ## Register 
 
 :point_right: :exclamation: [REGISTER HERE!!](https://www.bikereg.com/joy-memorial-criterium-2024) :exclamation: :point_left:
-
-{% capture fig_img %}
-[![Joy Memorial Logo](/assets/images/joy-memorial/Joy-logo-square.png)](/assets/images/joy-memorial/Joy-logo-square.png)
-{% endcapture %}
-
-{% capture fig_caption %}
-Get ready to rock New Hope, June 9th, 2024.
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-</figure>
-
