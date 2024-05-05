@@ -16,9 +16,13 @@ Weekend racing is back in a big way this summer for Minnesota. The Joy Memorial 
 of 7 races in the Northern Lights Grand Prix series, check out [MCF.net](https://mcf.net) 
 for more. 
 
-If you aren't familiar with criterium racing, it's a time-boxed bike race (30-60 minutes) with many laps on 
-a short course (in this case, 1.1 miles). At some point the "time left" turns to "laps left", and the
-first one across the line when there are no laps left is crowned the winner :crown:.
+If you aren't familiar with criterium racing, it's a time-boxed bike race with many laps on 
+a short course (in this case, 1.1 miles). Racers in a field all go together, in one pack (opposed to
+a time trial, where riders compete relatively isolated).
+At some point the "time left" turns to "laps left", and the first one across the line when there are no 
+laps left is crowned the winner :crown:. It's not just a thrilling way to race, it's an ideal format for
+spectators and fans.
+
 This is a family friendly event, all are welcome. We have fields for beginners, experienced fast folks,
 kids, and everyone in between. Don't have a race license? No worries! You can buy a 1-day license. 
 
