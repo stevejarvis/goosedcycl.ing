@@ -7,8 +7,10 @@ header:
   overlay_image: /assets/images/joy-memorial/2023-MHCRS06-01-NLong_BikeReg-Banner.jpg
   overlay_filter: 0.3
   caption: A shot by Nate Long (@nlongfx) from the 2023 Machinery Hills Crit Series. 
+toc: true
 ---
 
+## Joy Memorial 2024
 :point_right: :exclamation: [REGISTER HERE!!](https://www.bikereg.com/joy-memorial-criterium-2024) :exclamation: :point_left:
 
 Get ready to rock [New Hope](https://maps.app.goo.gl/XzR9FELZhfphwkq87), June 9th, 2024! 
@@ -29,7 +31,6 @@ kids, and everyone in between. Don't have a race license? No worries! You can bu
 [Registration open now](https://www.bikereg.com/joy-memorial-criterium-2024)! :tada:
 
 ## Flyer 
-
 {% capture fly_img %}
 [![Joy Memorial Flyer](/assets/images/joy-memorial/2024_Joy_Memorial_Crit_Flyer.png)](/assets/images/joy-memorial/2024_Joy_Memorial_Crit_Flyer.png)
 {% endcapture %}
@@ -44,9 +45,11 @@ The flyer we've all been waiting for! Or [click here to see the flyer in Google 
 </figure>
 
 ## Course Preview
-
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vSaoyT_pKcA" frameborder="0" allowfullscreen></iframe> 
 
-## Register 
-
+## Resources
+### Register on BikeReg
 :point_right: :exclamation: [REGISTER HERE!!](https://www.bikereg.com/joy-memorial-criterium-2024) :exclamation: :point_left:
+
+### Location
+[New Hope, MN](https://maps.app.goo.gl/XzR9FELZhfphwkq87). We'll be using Victory Park for parking and restrooms. 
