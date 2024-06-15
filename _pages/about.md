@@ -10,7 +10,7 @@ Goosed Cycling is a Minnesota bike racing team focused on road and cross, as wel
 2. Be good people. Be polite to other cyclists when out on training rides, give other racers a "good job buddy", and remember that, while racing is great, this is really about the people.
 3. Buy a kit each year. We gotta hit piece minimums, ya know?
 
-And as a club, we aim to provide the same in return. We want to help members have fun racing, get stronger and improve their skills, and build lasting relationships in the bike community.
+And as a club, we aim to provide the same in return. We want to help members have fun racing, get stronger and improve their skills, and build lasting relationships in the bike community. And ya know, race hard.
 
 {% capture trio_img %}
 [![trio of us](/assets/images/about/trio.jpeg)](/assets/images/about/trio.jpeg)
