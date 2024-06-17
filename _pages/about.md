@@ -17,7 +17,7 @@ And as a club, we aim to provide the same in return. We want to help members hav
 {% endcapture %}
 
 {% capture reg_caption %}
-In reality there's four of us as of right now, but darn if I can actually find a pic with all of us in it right now. Check back later and I'll get a proper pic.
+Not only a pic with all four of us in it, but wearing matching kits. Has not been seen before or since.
 {% endcapture %}
 
 <figure>
