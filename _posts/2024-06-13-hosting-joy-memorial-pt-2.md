@@ -72,7 +72,9 @@ Our registration fees stepped up in price as we went. If you were in early on Bi
 # What's Next
 If you're hanging around the Minnesota road racing scene at all, you've probably heard of some of the struggles. And if you haven't heard, you probably didn't need to be told anyway. The state of road racing in Minnesota could be better. For example, besides the state championships, Ken Woods has been the only other weekend race in Minnesota for years (until this summer :raised_hands:), and it's kinda 50/50 on whether a promoter will end up in a charitable position when it's all over and spend hundreds (thousands?) of their own to host a race. 
 
-To keep this race scene happy and healthy, we really need more people coming to races. Talk to your friends with bikes and see if they'd like to race. Should we have more clinics? Regular groups rides as that racing "gateway drug"? Cheaper reg (note we [tried this](https://www.instagram.com/p/C72ioNEM2x4/), it didn't really work out). How do we do this and what do we really need to strengthen the sport? I'm not sure, but it's a regular topic of conversation and we're remaining optimistic and trying things. 
+To keep this race scene happy and healthy, we really need more people coming to races. Talk to your friends with bikes and see if they'd like to race. Should we have more clinics? Regular groups rides as that racing "gateway drug"? Cheaper reg? (Note we [tried giving away a few free women's reg](https://www.instagram.com/p/C72ioNEM2x4/), it didn't really work out.) How do we do this and what do we really need to strengthen the sport? I'm not sure, but it's a regular topic of conversation and we're remaining optimistic and trying things. 
+
+Anyway we got a lot of summer racing ahead of us yet, I'll see you out there!
 
 {% capture duck_img %}
 [![ducks](/assets/images/joy-pt-2/ducks.jpeg)](/assets/images/joy-pt-2/ducks.jpeg)
