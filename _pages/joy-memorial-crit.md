@@ -10,9 +10,10 @@ header:
 toc: true
 ---
 
-## Joy Memorial 2024
-:point_right: :exclamation: [REGISTER HERE!!](https://www.bikereg.com/joy-memorial-criterium-2024) :exclamation: :point_left:
+:tada: Joy Memorial went off with a bang and we're thrilled y'all came out. See [the post for a 2024 recap]({{ site.url }}{{ site.baseurl }}/hosting-joy-memorial-pt-2/) and check back later for 2025 updates.
+{: .notice--info}
 
+## Joy Memorial 2024
 Get ready to rock [New Hope](https://maps.app.goo.gl/XzR9FELZhfphwkq87), June 9th, 2024! 
 Weekend racing is back in a big way this summer for Minnesota. The Joy Memorial Crit is 1 
 of 7 races in the Northern Lights Grand Prix series, check out [MCF.net](https://mcf.net) 
