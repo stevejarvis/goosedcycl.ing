@@ -92,3 +92,14 @@ When crit season ended we walked around lost and confused for a week or two, but
 So what's on tap for 2025? Probably a lot more of the same, but with some extras. I don't want to call my shots too specifically, because _it depends on things_ :shrug:, but like I said at the start, I'm personally getting curious about races that _aren't_ crits, because I hear those can be fun, too.
 
 Also very looking forward to putting on another stellar edition of the Joy Memorial Crit, hopefully we'll improve a bit every year. Tell ya what, as a thank you for sticking through this newsletter to the end, the first person to [DM us on Insta](https://www.instagram.com/goosedcycling/) and mention this page gets a free entry :tada:.
+
+{% capture dirty_dave %}
+[![dirty dave](/assets/images/2024-wrapped/dirty_dave.jpg)](/assets/images/2024-wrapped/dirty_dave.jpg)
+{% endcapture %}
+
+<figure>
+  {{ dirty_dave | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Here's Dave leading the filthy charge into 2025.
+  </figcaption>
+</figure>
+
