@@ -59,8 +59,18 @@ On fostering comfort, there we can do something more tangible. The idea currentl
 ## New Moniker
 Most the folks know us as [Beyond Category Coaching](https://www.beyondcategorycoaching.com/), or BCC, and we're thrilled to continue representing BCC, but we're now officially flying under "Goosed Cycling" (you might have guessed, given the title blog you're reading). BCC still keeps our training on track (yours truly is entering my 7th season with them now), and we're _very_ thankful for the continued support. 
 
+{% capture steve %}
+[![steve](/assets/images/2024-wrapped/steve_break.jpg)](/assets/images/2024-wrapped/steve_break.jpg)
+{% endcapture %}
+
+<figure>
+  {{ steve | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Me, wondering if I could make a break work at a Tuesday Night Crit. <em>Narrator: he did not.</em>
+  </figcaption>
+</figure>
+
 ## Results
- I felt like I couldn't _lead_ with results, cause that seemed a little too braggy and there are more important things than winning (right? :confused:), but we're also pretty jazzed with all the racing we did this year, as well as the hardware we took home.
+ I felt like I couldn't _lead_ with results, cause that seemed a little too braggy and there are more important things than winning (right? :confused:), but really we're pretty jazzed with all the racing we did this year, as well as the hardware we took home.
 
 _A point of clarification, is gravel road cycling? Are crits? In this newsletter they both are, idk :shrug:._
 
