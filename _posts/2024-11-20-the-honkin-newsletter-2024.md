@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/2024-wrapped/jason_damn_riding.jpg
   overlay_image: /assets/images/2024-wrapped/jason_damn_riding.jpg
   overlay_filter: 0.3
-  caption: Jason in progress at DaMN. 240 miles on a fixed gear, overnight, done in 15 hours. Oof. (_I'm not sure who took this awesome photo, if you know, yell at me._)
+  caption: Jason in progress at DaMN. 240 miles on a fixed gear, overnight, done in 15 hours. Oof. _(I'm not sure who took this awesome photo, if you know, yell at me.)_
 tags: [cycling, minnesota, racing, crit, results]
 last_modified_at: 2024-11-20
 toc: true
@@ -66,7 +66,7 @@ Most the folks know us as [Beyond Category Coaching](https://www.beyondcategoryc
 
 <figure>
   {{ steve | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo by [Dustin Bowman](https://www.flickr.com/photos/196832089@N05/). Me, wondering if I could make a break work at a Tuesday Night Crit. <em>Narrator: he did not.</em>
+  <figcaption>Photo by <a href="https://www.flickr.com/photos/196832089@N05/">Dustin Bowman</a>. Me, wondering if I could make a break work at a Tuesday Night Crit. <em>Narrator: he did not.</em>
   </figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ It was overall an incredible experience, looking forward to more of this next ye
   {{ derpfast | markdownify | remove: "<p>" | remove: "</p>" }}
   {{ diablo_podium | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>
-  Photo start by [MOMO Rider's Club](https://www.instagram.com/momoridersclub/). Big field of starters for the first of our 4-race weekend, 47 cat4s + 31 cat5s = 78 ppl smashing out of the gate for CamRock CX. Jason peeled us outta bed with a KwikTrip breakfast at the AirBnB, and then another hour's drive and some nonsense later both Jason and I on the podium again on day 2, for the Diablo CX cat4/5 morning race.
+  Photo start by <a href="https://www.instagram.com/momoridersclub/">MOMO Rider's Club</a>. Big field of starters for the first of our 4-race weekend, 47 cat4s + 31 cat5s = 78 ppl smashing out of the gate for CamRock CX. Jason peeled us outta bed with a KwikTrip breakfast at the AirBnB, and then another hour's drive and some nonsense later both Jason and I on the podium again on day 2, for the Diablo CX cat4/5 morning race.
   </figcaption>
 </figure>
 
@@ -115,11 +115,11 @@ For the road season, we ventured as far as Wisconsin and Iowa, and hit darn near
 
 <figure>
   {{ dr_jones | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo by [murgaster](https://www.flickr.com/photos/47165877@N02/). Brian, turning right with beauty and grace. At Ken Woods I believe.
+  <figcaption>Photo by <a href="https://www.flickr.com/photos/47165877@N02/">murgaster</a>. Brian, turning right with beauty and grace. At Ken Woods I believe.
   </figcaption>
 </figure>
 
-When crit season ended we walked around lost and confused for a week or two, but cross saved us soon enough. We showed up to that with about the same kind of metamucil-esque regularity we brought to the road season.
+When crit season ended we walked around lost and confused for a week or two, but cross came and we showed up to that with the same kind of metamucil-esque regularity we brought to the road season.
 
 | Total CX Races | Top 10s | :1st_place_medal: | :2nd_place_medal: | :3rd_place_medal: |
 |-------------------|-------------------|-------------------|---------|-------|
@@ -138,7 +138,7 @@ Also very looking forward to putting on another stellar edition of the Joy Memor
 
 <figure>
   {{ dirty_dave | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo by [Warks Cycling Services[(https://www.flickr.com/photos/198097055@N08/)]. Here's Dave leading the filthy charge into 2025.
+  <figcaption>Photo by <a href="https://www.flickr.com/photos/198097055@N08/">Warks Cycling Services</a>. Here's Dave leading the filthy charge into 2025.
   </figcaption>
 </figure>
 
