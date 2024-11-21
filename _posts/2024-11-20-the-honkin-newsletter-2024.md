@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/2024-wrapped/jason_damn_riding.jpg
   overlay_image: /assets/images/2024-wrapped/jason_damn_riding.jpg
   overlay_filter: 0.3
-  caption: Jason in progress at DaMN. 240 miles on a fixed gear, overnight, done in 15 hours. Oof. :camera: _I'm not sure who took this awesome photo, if you know, yell at me._
+  caption: Jason in progress at DaMN. 240 miles on a fixed gear, overnight, done in 15 hours. Oof. (_I'm not sure who took this awesome photo, if you know, yell at me._)
 tags: [cycling, minnesota, racing, crit, results]
 last_modified_at: 2024-11-20
 toc: true
