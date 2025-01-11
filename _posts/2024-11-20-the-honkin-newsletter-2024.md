@@ -18,7 +18,7 @@ We're at the close of a big ass year, and we wanna share it.
 # Highlights
 
 ## A Growing Roster
-We seduced two more racers, Jason Prudhom and Mike Wold, to join us, so we're now six strong. I think we're still _mostly_ a road racing team, but Jason's tendency to do nonsense like DaMN (*fixed* :exploding_head:) and Brian being so good at cyclocross is starting to feel contagious, cause we're spending more time off paved roads than past years.
+We sweet-talked two more racers, Jason Prudhom and Mike Wold, to join us, so we're now six strong. I think we're still _mostly_ a road racing team, but Jason's tendency to do nonsense like DaMN (*fixed* :exploding_head:) and Brian being so good at cyclocross is starting to feel contagious, cause we're spending more time off paved roads than past years.
 
 {% capture jason_damn %}
 [![jason damn](/assets/images/2024-wrapped/jason_damn.jpg)](/assets/images/2024-wrapped/jason_damn.jpg)
@@ -32,19 +32,6 @@ We seduced two more racers, Jason Prudhom and Mike Wold, to join us, so we're no
   {{ jason_damn | markdownify | remove: "<p>" | remove: "</p>" }}
   {{ mike_jorts | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>You see no gears, but what you also don't see is a freewheel. Jason pedaled 240 miles, overnight, without coasting an inch. Along the same vibes of "choosing pain", here's Mike choosing to race in jorts. We're very happy to have them both!!
-  </figcaption>
-</figure>
-
-### A Growing Opposing Roster, Too
-We couldn't give a proper highlight reel for 2024 without a shout out to our [Gray Duck Racing](https://www.grayduckracing.com/) buddies. You probably know them from promoting ~half the races on the calendar this year, for which we're *extremely* grateful, and for being the formerly most prominent fowl-based team in Minnesota. We chat with and ride with this crew all the time, and a group like this is really just everything :pinched_fingers:.
-
-{% capture cx_friends %}
-[![cx friends](/assets/images/2024-wrapped/cx_friends.jpg)](/assets/images/2024-wrapped/cx_friends.jpg)
-{% endcapture %}
-
-<figure>
-  {{ cx_friends | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>This is far from everyone, but we're fresh on the heels of the MN State CX Championship, and here's who happened to be standing around the area after the cat4/5 race. That's about as complete as our photo ops get.
   </figcaption>
 </figure>
 
@@ -71,7 +58,6 @@ Most the folks know us as [Beyond Category Coaching](https://www.beyondcategoryc
 </figure>
 
 ## WI CX Road Trip
-
 We're a close team, but since we haven't yet figured out how to get paid to ride bikes full time, life does make it tricky to all show up at the same races at the same time. And that's _very much_ more true for destination races (which I'll call anything requiring an overnight stay). So it's rather awesome that we were able to coordinate four of us making a trip to Wisconsin for a weekend of the WI CX Series. We left Saint Paul at 4am :tired_face: and arrived in Cambridge, WI in time for the 10:30am race, tired but wired. We all raced two fields each day, and outta those 16 races managed 7 podiums and 2 mandatory upgrades to cat3 :raised_hands:. 
 
 It was overall an incredible experience, looking forward to more of this next year. Everyone we met was awesome, thanks for having us :bow:.
@@ -126,6 +112,19 @@ When crit season ended we walked around lost and confused for a week or two, but
 | 70 | 37 | 4 | 5 | 5 | 
 
 :point_up: In all that's 6 people pinning a number and lining up :exclamation:167 times:exclamation: from April through November. Hells yes. Shout out to our significant others who we know love nothing more than watching us dick around for hours in 90 degree weather trying to win a 6-pack of Sprecher's :kiss:.
+
+## A Growing Opposing Roster, Too
+We couldn't give a proper highlight reel for 2024 without a shout out to our [Gray Duck Racing](https://www.grayduckracing.com/) buddies. You probably know them from promoting ~half the races on the calendar this year, for which we're *extremely* grateful, and for being the formerly most prominent fowl-based team in Minnesota. We chat with and ride with this crew all the time, and a group like this is really just everything :pinched_fingers:.
+
+{% capture cx_friends %}
+[![cx friends](/assets/images/2024-wrapped/cx_friends.jpg)](/assets/images/2024-wrapped/cx_friends.jpg)
+{% endcapture %}
+
+<figure>
+  {{ cx_friends | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>This is far from everyone, but we're fresh on the heels of the MN State CX Championship, and here's who happened to be standing around the area after the cat4/5 race. That's about as complete as our photo ops get.
+  </figcaption>
+</figure>
 
 # Looking to Next Year
 So what's on tap for 2025? Probably a lot more of the same, but with some extras. I don't want to call my shots too specifically, because _it depends on things_ :shrug:, but like I said at the start, I'm personally getting curious about races that _aren't_ crits, because I hear those can be fun, too (but still also definitely crits).
