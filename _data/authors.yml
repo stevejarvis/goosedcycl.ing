@@ -5,3 +5,9 @@ steve:
   avatar: /assets/images/steve.png
   github: stevejarvis
   instagram: sajarvis
+steve:
+  name: Jared Huling
+  email:
+  bio: "Bikes and data."
+  avatar: /assets/images/jdh.png
+  github: jaredhuling
