@@ -13,7 +13,7 @@ toc: true
 author: jared
 ---
 
-I've raced the Gray Duck Grit 50mi gravel race each of the last four years. It's one of my favorite races around the Twin Cities and was the first gravel race I ever participated in back in 2023. In 2023 I was very slow and didn't have power data, but that changed in 2024. Beautiful roads, challenging climbs in the heart of bluff country, and tough as nails competition where people push themselves hard but keep it a fun and friendly event.
+I've raced the Gray Duck Grit 50mi gravel race each of the last four years. It's one of my favorite races around the Twin Cities and was the first gravel race I ever participated in back in 2023. Beautiful roads, challenging climbs in the heart of bluff country, and tough as nails competition where people push themselves hard but keep it a fun and friendly event. In 2023 I was very slow and didn't have power data, but that changed in 2024. 
 
 I won in 2024. Last year I got second and spent most of the race off the front with a youngster and also a strong climber named Chuck Smith. The youngster won last year in a sprint finish. He was locked in and earned his win! That race was fun and set the stage for this year. This year Chuck came back even stronger and as a climber, he knew he had to make all the climbs as hard as possible to win. Every climb and every kicker he attacked extremely hard, putting me (and third place finisher and friend, Matt Lyon) to the sword. I really thought at some point I'd get dropped but both Matt and I somehow managed to hang on. I eventually won with an attack right before the finish after the elevation had flattened out. Chuck is an incredible competitor and a fun guy to race with/against and this year's Gray Duck Grit was a case in miniature about what's so great about the gravel scene in the Twin Cities. 
 
@@ -37,7 +37,7 @@ It was 80 °F this year and 67 °F last year, which made it yet harder to hit hi
 
 ## Three years on the Sunset Trail climbs
 
-The clearest view into the differences in difficulty from year to year comes from the two Sunset Trail climbs. They're different hills a few miles apart that share a road name, and both have been on the course all three years. These are my numbers over the identical stretch of road each year. In both years we formed an initial small group after the first sunset climb, then several riders who were dropped caught back on in between before being finally dropped on the second sunset trail climb.
+The clearest view into the differences in difficulty from year to year comes from the two Sunset Trail climbs. They're different hills a few miles apart that share a road name, and both have been on the course all three years. These are my numbers over the identical stretch of road each year. In 2025 and 2026 both, we formed an initial small group after the first sunset climb, then several riders who were dropped caught back on in between before being finally dropped on the second sunset trail climb.
 
 **Sunset Trail Climb: Mile 16, 1.03 mi, 206 ft**
 
@@ -63,9 +63,9 @@ That's what a more competitive race looks like in the data. Not just faster, but
 
 The long gradual climb at mile 8 tells the opposite story. I rode it in 6:07 in 2024 and 5:54 this year, 13 seconds apart over more than a mile and a half. The race wasn't harder *everywhere*. It was just harder on the climbs where attacking actually works.
 
-## The replay
+## Replaying the climbs in 3-D
 
-I built a 3-D replay that puts the years on the same road at the same time, each rider starting together at the foot of the climb. The road is colored by gradient, power reads out live above each rider, and the hard surges and best minutes are marked where they happened.
+I built a 3-D replay enging that puts the years on the same road at the same time, each rider starting together at the foot of the climb. The road is colored by gradient, power reads out live above each rider, and the hard surges and best minutes are marked where they happened.
 
 {% capture sunset_replay %}
 [![sunset trail replay](/assets/images/2026-gray-duck-grit/sunset-replay.png)](/assets/images/2026-gray-duck-grit/sunset-replay.png)
@@ -81,11 +81,11 @@ You can [watch the climbs replayed](https://jaredhuling.org/power-files/gray-duc
 
 ## The report
 
-The full comparison is in a [report on the two years](https://jaredhuling.org/power-files/gray-duck-grit/). It goes climb by climb: power and time on each one, how much of my anaerobic capacity each climb used, where the surges landed, pacing by half, heart rate, and how I slept the night before. Every number that depends on a threshold is shown two ways, because intervals.icu gives two different values for race day and they disagree by more than 40 W.
+A full, detailed comparison is in a [report on the two years](https://jaredhuling.org/power-files/gray-duck-grit/). It goes into much more detail climb by climb: power and time on each one, how much of my anaerobic capacity each climb used, where the surges happened, pacing by race half, heart rate, and even how I slept the night before. 
 
 ## Your own rides
 
-I pulled the analysis out into a tool called [reclimb](https://jaredhuling.org/reclimb/). Drop in a .fit, .gpx, or .tcx file and it finds the climbs and replays them. Drop in two or three editions of the same race and it puts them on one road together, the way the Gray Duck Grit replay does. It all runs in your browser, so your files never get uploaded anywhere.
+I also built a tool called [reclimb](https://jaredhuling.org/reclimb/) that allows you to view your own races on the 3-D climb visualizer. Drop in a .fit, .gpx, or .tcx file and it finds the climbs and replays them. Drop in two or three editions of the same race and it puts them on one road together, the way the Gray Duck Grit replay does. It all runs in your browser, so your files never get uploaded anywhere (we don't believe in harvesting your data here at Goosed Cycling).
 
 ## Next year
 
