@@ -17,13 +17,13 @@ I've raced the Gray Duck Grit 50mi gravel race each of the last four years. It's
 
 I won in 2024. Last year I got second and spent most of the race off the front with a youngster and also a strong climber named Chuck Smith. The youngster won last year in a sprint finish. He was locked in and earned his win! That race was fun and set the stage for this year. This year Chuck came back even stronger and as a climber, he knew he had to make all the climbs as hard as possible to win. Every climb and every kicker he attacked extremely hard, putting me (and third place finisher and friend, Matt Lyon) to the sword. I really thought at some point I'd get dropped but both Matt and I somehow managed to hang on. I eventually won with an attack right before the finish after the elevation had flattened out. Chuck is an incredible competitor and a fun guy to race with/against and this year's Gray Duck Grit was a case in miniature about what's so great about the gravel scene in the Twin Cities. 
 
-But all this fun got me thinking: every gravel race in the metro area has felt like it's gotten much more competitive with year year. That I was in the front group of the Gray Duck Grit 3 years in a row gives a nice opportunity to test that hypothesis. Three years of power data on the same roads and many of the same climbs should be enough to determine whether the race has actually gotten harder, or whether it just feels that way in the heat of the moment. 
+But all this fun got me thinking: every gravel race in the metro area has felt like it's gotten much more competitive with each year. That I was in the front group of the Gray Duck Grit 3 years in a row gives a nice opportunity to test that hypothesis. Three years of power data on the same roads and many of the same climbs should be enough to determine whether the race has actually gotten harder, or whether it just feels that way in the heat of the moment. 
 
 This post is a bit of an homage to a great race with strong competitors. Chuck pushed me far past my limits and while he didn't win this time, he was probably the strongest on the day. Next year I'm sure he'll come back for revenge!
 
 ## The aggregate numbers
 
-First off, this year's race definitely felt to me much harder than last year, but the usual aggregate numbers don't reflecti tihs. Normalized power came out to 298 W for me in both 2025 and 2026. My heart rate averaged 158 bpm last year and 159 this year. We did finish faster this year, but in principle that could be just due to differences in wind or road conditions or temperature (it was hotter, after all and colder air is denser). But that's not the end of it.
+First off, this year's race definitely felt to me much harder than last year, but the usual aggregate numbers don't reflect this. Normalized power came out to 298 W for me in both 2025 and 2026. My heart rate averaged 158 bpm last year and 159 this year. We did finish faster this year, but in principle that could be just due to differences in wind or road conditions or temperature (it was hotter, after all, and colder air is denser). But that's not the end of it.
 
 ## The climbs
 
